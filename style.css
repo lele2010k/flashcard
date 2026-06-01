@@ -45,7 +45,7 @@
         }
 
         footer{
-            background-color: rgb(124, 190, 168);
+            background-color: rgb(50, 136, 107);
             padding: 15px 25px;
             color: aliceblue;
         }
@@ -69,4 +69,9 @@
 
         .cartao-verso{
             transform: rotateY(180deg);
+        }
+
+        section {
+            display: flex;
+            gap: 16px;
         }
