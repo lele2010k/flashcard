@@ -49,6 +49,7 @@
 
         .cartao-interno {
             position: relative;
+            transition: transform 0.8s;
         }
 
         .cartao-frente, .cartao-verso {
@@ -61,3 +62,4 @@
         .cartao-verso{
             transform: rotateY(180deg);
         }
+
