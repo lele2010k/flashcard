@@ -29,7 +29,7 @@
         flex-direction: column;
         min-height: 100vh;
         background-color: rgb(111, 184, 159);
-        padding-top: 10px;
+      
     }
 
     main {
@@ -37,6 +37,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding-top: 10px;
     }
 
     .cabecalho-link {
